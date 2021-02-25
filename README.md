@@ -30,4 +30,4 @@ You can find the "lockdown" dates used for these plots in country_lockdown_dates
 
 ## Original data
 
-As per Twitter's Terms of Service, we cannot post the original data. However, if you are interested in collaborating on a project, please contact Yelena Mejova at <yelenamejova@gmail.com>
+As per Twitter's Terms of Service, we cannot post the original data. However, if you are interested in collaborating on a project, please contact Yelena Mejova at <yelena.mejova@gmail.com>
